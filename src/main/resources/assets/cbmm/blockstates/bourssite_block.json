@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cbmm:block/bourssite_block"
+    }
+  }
+}

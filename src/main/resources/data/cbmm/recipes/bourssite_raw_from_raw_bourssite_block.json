@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cbmm:raw_bourssite_block"
+    }
+  ],
+  "result": {
+    "item": "cbmm:raw_bourssite",
+    "count": 9
+  }
+}

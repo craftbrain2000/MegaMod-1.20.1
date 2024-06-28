@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cbmm:block/raw_bourssite_block"
+  }
+}

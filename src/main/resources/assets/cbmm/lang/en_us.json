@@ -1,0 +1,13 @@
+{
+  "creative_tab.cbmm_tab": "Mega Mod Tab",
+
+  "item.cbmm.ash": "Ash",
+  "item.cbmm.raw_bourssite": "Raw Bourssite",
+  "item.cbmm.bourssite_ingot": "Bourssite Ingot",
+
+  "block.cbmm.bourssite_block": "Block of Bourssite",
+  "block.cbmm.raw_bourssite_block": "Block of Raw Bourssite",
+
+  "block.cbmm.bourssite_ore": "Bourssite Ore",
+  "block.cbmm.deepslate_bourssite_ore": "Deepslate Bourssite Ore"
+}
