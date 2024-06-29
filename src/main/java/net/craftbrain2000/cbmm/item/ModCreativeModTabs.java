@@ -21,6 +21,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.ASH.get());
                         pOutput.accept(ModItems.RAW_BOURSSITE.get());
                         pOutput.accept(ModItems.BOURSSITE_INGOT.get());
+                        //pOutput.accept(ModItems.BATARANG.get());
+
 
                         pOutput.accept(ModBlocks.BOURSSITE_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_BOURSSITE_BLOCK.get());

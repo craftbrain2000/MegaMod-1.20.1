@@ -2,6 +2,8 @@ package net.craftbrain2000.cbmm.item;
 
 import net.craftbrain2000.cbmm.CBMM;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.SnowballItem;
+import net.minecraft.world.item.TridentItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -20,6 +22,9 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
 
     //Tools & Weapons
+    //public static final RegistryObject<TridentItem> BATARANG = ITEMS.register("batarang",
+            //() -> new TridentItem(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
